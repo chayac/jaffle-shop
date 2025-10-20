@@ -1,3 +1,4 @@
+-- example comment in staging model
 with
 
 source as (
